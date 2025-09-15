@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-# graphs_darian303
-=======
+Metadata-Version: 2.4
+Name: graphs_darian303
+Version: 0.0.1
+Summary: Python package implementing Dijkstra's algorithm
+Author: Darian Dunn
+Project-URL: Homepage, https://github.com/darian303/graphs_darian303
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # graphs_darian303
 
 Python package implementing Dijstra's shortest path algorithm.
@@ -55,4 +63,3 @@ The package can be installed and imported as:
 from graphs_darian303 import sp
 
 Bonus: The package also includes bfs(graph, start) for breadth-first traversal.
->>>>>>> 7f40f9c (Initial commit: package structure, README, and test script)
