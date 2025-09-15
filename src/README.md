@@ -10,9 +10,9 @@ This package follows the naming convention `graphs_<username>` and is structured
 
 pip install -e . 
 
-Note: If you encounter import issues, you can termporarily set your PYTHONPATH:
+Note: If you encounter import issues, you can switch into the src directory and temporarily set your PYTHONPATH:
 
-Powershell: $env:PYTHONPATH="$PWD\src\graphs_darian303"
+Powershell: $env:PYTHONPATH="$PWD\graphs_darian303"
 
 ---
 
