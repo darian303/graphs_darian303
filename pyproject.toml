@@ -1,0 +1,18 @@
+[project]
+name = "graphs_darian303"
+version = "0.0.1"
+authors = [
+    { name="Darian Dunn" } 
+]
+description = "Python package implementing Dijkstra's algorithm"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/darian303/graphs_darian303"
